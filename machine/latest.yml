@@ -1,0 +1,3 @@
+name: dev-ubuntu #name of machine
+  - type: media #media for boot device, vm for virtual machine
+  
