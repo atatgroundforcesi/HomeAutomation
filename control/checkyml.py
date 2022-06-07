@@ -7,6 +7,7 @@ class ParseYaml:
         auctual_path = getcwd()
 
         with open(f"{auctual_path}\machine\latest.yml") as yml_file:
-          print(safe_load(yml_file))
+          parsed_yml_file = (safe_load(yml_file))
 
-ParseYaml.load_yml()
+
+    def vm_settings():
