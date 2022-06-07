@@ -1,3 +1,11 @@
-name: dev-ubuntu #name of machine
-  - type: media #media for boot device, vm for virtual machine
-  
+---
+#For more details contact YAML-DOC.md
+mode:
+
+#Only Use for VM Builds
+build-type: 
+
+#Name of your Machine or multiple Machines
+name: 
+  - dev-ubuntu
+type: media #media for boot device, vm for virtual machine

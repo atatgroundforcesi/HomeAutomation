@@ -8,3 +8,9 @@ Automate my Home Setup
 - Cofig: Configuration Files used for Provioning
 - Post: Post Processing Steps
     - Scripts: Excecute your Own Scripts in this folder
+
+
+## How it works
+
+Load your YAML Configuration in the Machine Folder
+
